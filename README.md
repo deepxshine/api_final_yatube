@@ -93,7 +93,15 @@ JSON [
         "pub_date": 2023-02-1T18:12:20.610315Z",
         "image": null,
         "group": null
-    }
+    },
+    {
+        "id": 4,
+        "author": "Гололь",
+        "text": "2й Том Мертвых Душ ",
+        "pub_date": "1999-02-1T18:12:20.610315Z",
+        "image": null,
+        "group": null
+    },
 ]
 
 
